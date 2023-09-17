@@ -1,0 +1,19 @@
+---
+object: set
+id: 815577c6-652f-4171-8298-c1063c5bced1
+code: v13
+mtgo_code: v13
+arena_code: v13
+tcgplayer_id: 1141
+name: 'From the Vault: Twenty'
+uri: https://api.scryfall.com/sets/815577c6-652f-4171-8298-c1063c5bced1
+scryfall_uri: https://scryfall.com/sets/v13
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Av13&unique=prints
+released_at: '2013-08-23'
+set_type: from_the_vault
+card_count: 20
+printed_size: 20
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/v13.svg?1694404800

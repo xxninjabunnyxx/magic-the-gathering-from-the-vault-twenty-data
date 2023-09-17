@@ -1,0 +1,113 @@
+---
+object: card
+id: 2b9942a3-39e6-4e2c-918d-0c2e2f456135
+oracle_id: 7f77a84e-5a4b-4834-aefa-3cecc175ae8e
+multiverse_ids:
+- 373316
+mtgo_id: 50033
+mtgo_foil_id: 50034
+tcgplayer_id: 70764
+cardmarket_id: 263676
+name: Jace, the Mind Sculptor
+lang: en
+released_at: '2013-08-23'
+uri: https://api.scryfall.com/cards/2b9942a3-39e6-4e2c-918d-0c2e2f456135
+scryfall_uri: https://scryfall.com/card/v13/18/jace-the-mind-sculptor?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/b/2b9942a3-39e6-4e2c-918d-0c2e2f456135.jpg?1570417039
+  normal: https://cards.scryfall.io/normal/front/2/b/2b9942a3-39e6-4e2c-918d-0c2e2f456135.jpg?1570417039
+  large: https://cards.scryfall.io/large/front/2/b/2b9942a3-39e6-4e2c-918d-0c2e2f456135.jpg?1570417039
+  png: https://cards.scryfall.io/png/front/2/b/2b9942a3-39e6-4e2c-918d-0c2e2f456135.png?1570417039
+  art_crop: https://cards.scryfall.io/art_crop/front/2/b/2b9942a3-39e6-4e2c-918d-0c2e2f456135.jpg?1570417039
+  border_crop: https://cards.scryfall.io/border_crop/front/2/b/2b9942a3-39e6-4e2c-918d-0c2e2f456135.jpg?1570417039
+mana_cost: "{2}{U}{U}"
+cmc: 4.0
+type_line: Legendary Planeswalker — Jace
+oracle_text: |-
+  +2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.
+  0: Draw three cards, then put two cards from your hand on top of your library in any order.
+  −1: Return target creature to its owner's hand.
+  −12: Exile all cards from target player's library, then that player shuffles their hand into their library.
+loyalty: '3'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 815577c6-652f-4171-8298-c1063c5bced1
+set: v13
+set_name: 'From the Vault: Twenty'
+set_type: from_the_vault
+set_uri: https://api.scryfall.com/sets/815577c6-652f-4171-8298-c1063c5bced1
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Av13&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/v13?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2b9942a3-39e6-4e2c-918d-0c2e2f456135/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7f77a84e-5a4b-4834-aefa-3cecc175ae8e&unique=prints
+collector_number: '18'
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jason Chan
+artist_ids:
+- 8062d5a9-51b6-4822-933f-fa9e9dba8416
+illustration_id: b0ab416a-c7a8-4531-8e6a-00a167db4f76
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 2184
+prices:
+  usd: 
+  usd_foil: '27.46'
+  usd_etched: 
+  eur: 
+  eur_foil: '22.00'
+  tix: 
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=373316
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Jace%2C+the+Mind+Sculptor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Jace%2C+the+Mind+Sculptor&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Jace%2C+the+Mind+Sculptor
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/70764?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jace%2C+the+Mind+Sculptor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/50033?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
